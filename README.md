@@ -3,7 +3,7 @@
 - Nombre: Asaf Neftalty Sosa Ramírez 
 - Correo: asafneftaly@gmail.com
 
-# Actividad 1
+## Actividad 1
 - p01_HolaMundo
 - p02_AreaCirculo
 - p03_Area Triangulo 
