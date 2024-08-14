@@ -4,9 +4,7 @@
 - Correo: asafneftaly@gmail.com
 
 # Actividad 1
-- Programa 1 
-- Programa 2
-
-# Actividad 2
-- Programa 3
-- Programa 4 
+- p01_HolaMundo
+- p02_AreaCirculo
+- p03_Area Triangulo 
+- p04_PagaTrabajador
