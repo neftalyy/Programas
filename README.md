@@ -8,3 +8,10 @@
 - p02_AreaCirculo
 - p03_Area Triangulo 
 - p04_PagaTrabajador
+
+## Actividad 2 
+ - p05_OperacionesMatematicas
+ - p06_PromedioCalificaciones
+ - p07_OperadoresAsignacion
+ - p08_FuncionesTrigonometricas
+ - p09-Dividir-en-cifras
