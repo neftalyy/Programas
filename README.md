@@ -23,3 +23,16 @@
  - p13_VolumenCilindro
  - p14_CalculoTiempo
  - _p15_ConvertirADolares
+
+ ## Actividad 3
+ - p16_TrabajandoEnteros 
+ - p17_TrabajandoFlotantes 
+ - p18_TrabajandoConstantes
+ - p19_TrabajandoCaracteres
+ - p20_ConversionTipos 
+
+ ## Actividad 5
+ - p21_VerificarNumero
+ - p22_VerificarSuma
+ - p23_ConvertirTemperatura
+ - p24_PagaTrabajadorv2
