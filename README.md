@@ -36,3 +36,17 @@
  - p22_VerificarSuma
  - p23_ConvertirTemperatura
  - p24_PagaTrabajadorv2
+
+ ## Actividad 6 
+- p29_Calculadora
+- p30_DiaSemana
+- p31_NumerosRomanos
+- p32_PagoEstacionamiento
+
+## Practica 2 
+- p33_NumerosConsecutivos
+- p34_NumeroMayor
+- p35_ContinentesMundo
+- p36_CompraPizza
+- p37_CalculoNotas
+- p38_AceptarEstudianteV2
