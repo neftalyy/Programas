@@ -23,7 +23,7 @@ public class p38_AceptarEstudianteV2 {
         }
         double promedio = suma / 3;
 
-        if(sexo == 'm' && edad>21 && promedio >=8 && promedio <=9.5);
+        if(sexo == 'm' && edad>21 && promedio >=8 && promedio <=9.5)
         {
             System.out.println("El estudiante "+nombre+"ha sido aceptado en la Universidad Kitty Kat SA.");
         } else {
