@@ -37,6 +37,12 @@
  - p23_ConvertirTemperatura
  - p24_PagaTrabajadorv2
 
+## Actividad 5
+- p25_EstacionesAño
+- p26_TipoAngulo
+- p27_AceptarEstudiante
+- p28_LeyDeNewton
+
  ## Actividad 6 
 - p29_Calculadora
 - p30_DiaSemana
@@ -69,3 +75,10 @@
 - p49_ParesDescendente  
 - p50_ConversionTemperaturas
 - p51_SerieFibonaci
+
+## Actividad 9
+- p52_Numeros1aN
+- p53_NumerosNa1
+- p54_ArribaAbajo
+- p55_SumaParesImpares
+- p56_SumaPromedio
