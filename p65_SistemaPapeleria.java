@@ -74,11 +74,11 @@ public class p65_SistemaPapeleria {
         System.out.println("Tot. Ventas: $" + totalDinero);
 
         if (totalDinero < 50) {
-            System.out.println("Esta venta es una: Venta moderada");
+            System.out.println("Esta venta es una: Venta MODERADA");
         } else if (totalDinero <= 100) {
-            System.out.println("Esta venta es una: Venta frecuente");
+            System.out.println("Esta venta es una: Venta FRECUENTE");
         } else {
-            System.out.println("Esta venta es una: Venta superada");
+            System.out.println("Esta venta es una: Venta sSUPERADA");
         }
 
         sc.close();
