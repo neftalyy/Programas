@@ -97,3 +97,10 @@
 
 ## Examen Parcial 1 
 - ep01_PrimerExamenParcial
+
+## Actividad 11
+- p66_PromedioNumeros
+- p67_ConversionTemperaturas
+- p68_SumaRango
+- p69_TablaMultiplicar
+- p70_CalificacionLetra
