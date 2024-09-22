@@ -118,3 +118,10 @@
 - p78_MedidasLongitud  
 - p79_SumaMultiplos
 - p80_Angulo
+
+## Actividad 12 
+- p81_InicializaArregloNumeros
+- p82_InicializaArregloCadenas
+- p83_InicializaNombresEdades
+- p84_LeerArregloCalificaciones
+- p85_NombresEdades
