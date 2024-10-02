@@ -30,7 +30,7 @@ public class Factura {
         Cliente = cliente;
     }
     public double getTotal(){
-        return (Monto - (Monto * Cliente.getDescuento()))
+        return (Monto - (Monto * Cliente.getDescuento()));
     }
     @Override
     public String toString() {

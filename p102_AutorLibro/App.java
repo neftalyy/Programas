@@ -22,7 +22,7 @@ public class App {
         System.out.println("Correo " + libro1.getAutor().getCorreo());
         System.out.println("\n" + libro1.toString());
 
-        Libro libro2 = new Libro("4567-89-10-11","Seguridad",450, new Autor("William Rodriguez", 50, "william@hotmail.com"));
+        Libro libro2 = new Libro("4567-89-10-11","Seguridad", new Autor("William Rodriguez", 50, "william@hotmail.com"), 450);
         System.out.println("Datos del Libro 1");
         System.out.println("Isbn :" + libro2.getIsbn());
         System.out.println("Nombre : " + libro2.getNombre());
