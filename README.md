@@ -132,11 +132,16 @@
 - p88_Aleatorios
 - p89_ArregloAleatorios
 
-## Practica 
+## Practica 7
 - p90_Temperaturas
 - p91_MayoresPromedio
 - p92_MayorMenor
 - p93_ParesImpares 
+
+## Practica 8
+-p98_Circulo
+-p99_Rectangulo
+-p100_Articulo 
 
 ## Actividad 16 
 - p101_TrabajoPersona
