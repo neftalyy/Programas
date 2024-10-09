@@ -138,6 +138,12 @@
 - p92_MayorMenor
 - p93_ParesImpares 
 
+## Actividad 15 
+- p94_Empleado01
+- p95_Empleado02
+- p96_Empleado03
+- p97_Empleado04
+
 ## Practica 8
 -p98_Circulo
 -p99_Rectangulo
@@ -147,3 +153,18 @@
 - p101_TrabajoPersona
 - p102_AutorLibro
 - p103_ClienteFactura 
+
+## Practica 9 
+- p104_PuntoCirculo
+- p105_PuntoTriangulo
+
+## Actividad 17 
+- p106_Persona
+- p107_Forma 
+
+## Practica 10 
+- p108_Vehiculo
+- p109_FormaV2
+
+## Actividad 18 
+- p110_CuentaBancariaV1 
