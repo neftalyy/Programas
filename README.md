@@ -168,3 +168,25 @@
 
 ## Actividad 18 
 - p110_CuentaBancariaV1 
+
+## Actividad 19 
+- p111_CuentaBancariaV2
+
+## Practica 11
+- p112_ControlVentas
+
+## Examen Parcial 2
+- p113_SegundoExamenParcial
+
+## Actividad 20 
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
+## Actividad 21 
+- p118_Calculadora
+- p119_Organismo
+
+## Practica 12 
+- p120_Vehiculo
