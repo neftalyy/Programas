@@ -199,3 +199,28 @@
 - p125_Excepcion5
 - p126_Excepcion6
 - p127_MiExcepcion
+
+## Practica 13 
+- p128_ExcepcionRaiz
+- p129_ExcepcionDulces
+- p130_ExcepcionEdades
+- p131_ExcepcionTemperatura
+
+## Actividad 23 
+- p132_Archivos1
+- p133_Archivos2
+- p134_Archivos3 ... clase 1
+- p135_Archivos4 ... clase 2
+- p136_Archivos5 ... clase 3
+
+## Practica 14 
+- p137_ArchivoMunicipios
+- p138_ArchivoMaterias
+- p139_ArchivoEstudiante
+
+## Actividad 24
+- 140_HolaMundoGUI
+
+## Practica 15 
+- p143_PagaTrabjador
+- p144_Temperaturas
