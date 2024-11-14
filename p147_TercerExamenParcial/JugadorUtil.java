@@ -18,7 +18,6 @@ public class JugadorUtil {
         return jugadores;
     }
 
-    // Guardar los datos en un archivo
     public void guardarDatos(String filename) {
         try (PrintWriter writer = new PrintWriter(new FileWriter(filename))) {
             for (Jugador jugador : jugadores) {
@@ -34,7 +33,6 @@ public class JugadorUtil {
         }
     }
 
-    // Cargar los datos desde un archivo
     public void cargarDatos(String filename) {
         jugadores.clear();
         try (BufferedReader reader = new BufferedReader(new FileReader(filename))) {
